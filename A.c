@@ -30,6 +30,11 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
+How To Run
+--->  cc slip.c
+---> ./a.out
+--->  gcc slip.c -o slip
+---> ./slip slip.c
 
 /*$ ./a.out example.txt
 File: example.txt
